@@ -1,2 +1,3 @@
 # ray-casting
-ray casting visualisation, you can create a map using my map editor (see my better-map-editor repo) and load it   
+ray casting visualisation : https://en.wikipedia.org/wiki/Ray_casting  
+you can create a map using my map editor (https://github.com/Little-Bro/better-map-editor) to load your custom map   
